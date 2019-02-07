@@ -1,0 +1,4 @@
+Xamarin_Test.MainActivity, Xamarin_Test;md52ea75f21c58776193be10a9ce0c41962.MainActivity
+Xamarin_Test.MainActivity, Xamarin_Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md52ea75f21c58776193be10a9ce0c41962.MainActivity
+Xamarin_Test.MainActivity;md52ea75f21c58776193be10a9ce0c41962.MainActivity
+xamarin_test.MainActivity;md52ea75f21c58776193be10a9ce0c41962.MainActivity

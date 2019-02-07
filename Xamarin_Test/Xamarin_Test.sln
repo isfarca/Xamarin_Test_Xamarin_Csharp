@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin_Test", "Xamarin_Test\Xamarin_Test.csproj", "{FACB1836-E781-41BE-9F54-0516339750DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FACB1836-E781-41BE-9F54-0516339750DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FACB1836-E781-41BE-9F54-0516339750DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FACB1836-E781-41BE-9F54-0516339750DF}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FACB1836-E781-41BE-9F54-0516339750DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FACB1836-E781-41BE-9F54-0516339750DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FACB1836-E781-41BE-9F54-0516339750DF}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

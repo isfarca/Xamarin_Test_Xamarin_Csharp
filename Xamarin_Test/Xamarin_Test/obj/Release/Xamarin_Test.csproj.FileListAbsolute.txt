@@ -1,0 +1,15 @@
+C:\Users\Fethi\Desktop\Xamarin_Test\Xamarin_Test\bin\Release\Xamarin_Test.dll
+C:\Users\Fethi\Desktop\Xamarin_Test\Xamarin_Test\bin\Release\Xamarin_Test.pdb
+C:\Users\Fethi\Desktop\Xamarin_Test\Xamarin_Test\bin\Release\Xamarin_Test.Xamarin_Test.apk
+C:\Users\Fethi\Desktop\Xamarin_Test\Xamarin_Test\bin\Release\Xamarin_Test.Xamarin_Test-Signed.apk
+C:\Users\Fethi\Desktop\Xamarin_Test\Xamarin_Test\obj\Release\Xamarin_Test.csprojResolveAssemblyReference.cache
+C:\Users\Fethi\Desktop\Xamarin_Test\Xamarin_Test\obj\Release\Xamarin_Test.dll
+C:\Users\Fethi\Desktop\Xamarin_Test\Xamarin_Test\obj\Release\Xamarin_Test.pdb
+C:\Users\Fethi\Desktop\Xamarin_Test\Xamarin_Test\obj\Release\android\bin\Xamarin_Test.Xamarin_Test.apk
+C:\Users\Fethi\Desktop\Xamarin_Test\Xamarin_Test\obj\Release\res\layout\main.xml
+C:\Users\Fethi\Desktop\Xamarin_Test\Xamarin_Test\obj\Release\res\values\strings.xml
+C:\Users\Fethi\Desktop\Xamarin_Test\Xamarin_Test\obj\Release\res\drawable\icon.png
+C:\Users\Fethi\Desktop\Xamarin_Test\Xamarin_Test\obj\Release\R.cs.flag
+C:\Users\Fethi\Desktop\Xamarin_Test\Xamarin_Test\obj\Release\uploadflags.txt
+C:\Users\Fethi\Desktop\Xamarin_Test\Xamarin_Test\bin\Release\Xamarin_Test.dll.mdb
+C:\Users\Fethi\Desktop\Xamarin_Test\Xamarin_Test\obj\Release\android\assets\Xamarin_Test.dll.mdb
